@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::resource('/posts', \App\Http\Controllers\PostController::class);
+Route::resource('/postsss', \App\Http\Controllers\PostController::class);
